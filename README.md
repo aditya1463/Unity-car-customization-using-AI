@@ -2,6 +2,7 @@
 AI-based car colour customization system Built in Unity Engine
 
 This project demonstrates a simple car customization system built using Unity and C#.
+There will be a folder named Assets and it will contain 1.Car_Low, 2.Scenes, 3.Settings, 4. TextMesh Pro, 5.TutorialInfo, 6. all other files except packages, ProjectSettings.
 
 ## Features
 - 3D car model
